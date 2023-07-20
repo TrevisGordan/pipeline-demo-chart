@@ -11,7 +11,7 @@ image:
   repository: erdock1/pipeline-mock-public
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: dev.0.0.0.1-dev
+  tag: 0.0.1
 
 imagePullSecrets: []
 nameOverride: ""
