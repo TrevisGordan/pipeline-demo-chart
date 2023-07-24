@@ -4,5 +4,5 @@ helm:
     value: erdock1/pipeline-mock-public
     forcestring: true
   - name: image.tag
-    value: 0.0.2
+    value: sha-4c97ae9
     forcestring: true
